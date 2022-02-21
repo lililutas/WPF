@@ -1,0 +1,15 @@
+C:\Users\pozit\source\repos\Shikimori\Shikimori\bin\Debug\Shikimori.exe.config
+C:\Users\pozit\source\repos\Shikimori\Shikimori\bin\Debug\Shikimori.exe
+C:\Users\pozit\source\repos\Shikimori\Shikimori\bin\Debug\Shikimori.pdb
+C:\Users\pozit\source\repos\Shikimori\Shikimori\obj\Debug\Shikimori.csprojAssemblyReference.cache
+C:\Users\pozit\source\repos\Shikimori\Shikimori\obj\Debug\MainWindow.g.cs
+C:\Users\pozit\source\repos\Shikimori\Shikimori\obj\Debug\App.g.cs
+C:\Users\pozit\source\repos\Shikimori\Shikimori\obj\Debug\Shikimori_MarkupCompile.cache
+C:\Users\pozit\source\repos\Shikimori\Shikimori\obj\Debug\Shikimori_MarkupCompile.lref
+C:\Users\pozit\source\repos\Shikimori\Shikimori\obj\Debug\MainWindow.baml
+C:\Users\pozit\source\repos\Shikimori\Shikimori\obj\Debug\Shikimori.g.resources
+C:\Users\pozit\source\repos\Shikimori\Shikimori\obj\Debug\Shikimori.Properties.Resources.resources
+C:\Users\pozit\source\repos\Shikimori\Shikimori\obj\Debug\Shikimori.csproj.GenerateResource.cache
+C:\Users\pozit\source\repos\Shikimori\Shikimori\obj\Debug\Shikimori.csproj.CoreCompileInputs.cache
+C:\Users\pozit\source\repos\Shikimori\Shikimori\obj\Debug\Shikimori.exe
+C:\Users\pozit\source\repos\Shikimori\Shikimori\obj\Debug\Shikimori.pdb
